@@ -1,15 +1,3 @@
 [submodule "grbl"]
 	path = grbl
 	url = https://github.com/grblHAL/core
-[submodule "eeprom"]
-	path = eeprom
-	url = https://github.com/grblHAL/Plugin_EEPROM
-[submodule "sdcard"]
-	path = sdcard
-	url = https://github.com/grblHAL/Plugin_SD_card
-[submodule "keypad"]
-	path = keypad
-	url = https://github.com/grblHAL/Plugin_I2C_keypad
-[submodule "bluetooth"]
-	path = bluetooth
-	url = https://github.com/grblHAL/Plugins_Bluetooth
