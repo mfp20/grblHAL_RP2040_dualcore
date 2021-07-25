@@ -1,0 +1,4 @@
+[submodule "grbl"]
+	path = grbl
+	url = https://github.com/mfp20/grblHAL_core_offloaded.git
+	branch = offloaded
