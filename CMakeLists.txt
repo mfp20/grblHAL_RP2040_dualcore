@@ -18,12 +18,6 @@ add_executable(grblHAL
  i2c.c
  PCA9654E.c
  pico_cnc.c
- eeprom/eeprom_24AAxxx.c
- eeprom/eeprom_24LC16B.c
- keypad/keypad.c
- sdcard/sdcard.c
- sdcard/ymodem.c
- bluetooth/hc_05.c
 )
 
 pico_generate_pio_header(grblHAL ${CMAKE_CURRENT_LIST_DIR}/driverPIO.pio)
